@@ -20,3 +20,7 @@ To assess risks and focus efforts, it is important to understand which services 
 ## Note
 
 You can train the model to serialize the model instance into the text, and read the instance of the text directly next time, so as to avoid having to train again every time you execute the program (it is slow).
+
+# Donate
+Donate generously! [![Support](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/maheshnama098)
+
