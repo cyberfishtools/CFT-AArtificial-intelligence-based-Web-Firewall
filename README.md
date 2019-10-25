@@ -12,8 +12,7 @@ To assess risks and focus efforts, it is important to understand which services 
 
 2.Install requirements :
 
-        直接 pip install -r requirement.txt  即可
-
+         pip install -r requirement.txt 
 ## Run
 
         python3 waf.py
